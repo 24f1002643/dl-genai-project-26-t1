@@ -1,0 +1,8 @@
+torch
+torchaudio
+torchmetrics
+transformers
+wandb
+numpy
+pandas
+tqdm
