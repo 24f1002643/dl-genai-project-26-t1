@@ -6,7 +6,7 @@ Samar Kamboj
 
 Directory structure:
 ```
-messy-mashup/
+dl-genai-project-26-t1/
 │
 ├── notebooks/
 │   ├── milestone-1.ipynb
