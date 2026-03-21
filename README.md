@@ -1,8 +1,11 @@
-# Messy Mashup
-DL-GenAI Project IITM BS
+# Messy Mashup Project - IITM BS
+```
 Samar Kamboj
 24f1002643
+```
 
+Directory structure:
+```
 messy-mashup/
 │
 ├── notebooks/
@@ -19,3 +22,4 @@ messy-mashup/
 ├── project_report.pdf
 ├── requirements.txt
 └── README.md
+```
