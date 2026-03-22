@@ -18,6 +18,7 @@ dl-genai-project-26-t1/
 │   ├── training-ast.ipynb
 │   ├── training-cnn.ipynb
 │   └── inference.ipynb
+│   └── messy-mashup-eda.ipynb
 │
 ├── project_report.pdf
 ├── requirements.txt
