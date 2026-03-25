@@ -12,12 +12,12 @@ dl-genai-project-26-t1/
 │   ├── milestone-1.ipynb
 │   ├── milestone-2.ipynb
 │   ├── milestone-3.ipynb
-│   ├── milestone-5.ipynb
+│   └── milestone-5.ipynb
 │
 ├── models/
 │   ├── training-ast.ipynb
 │   ├── training-cnn.ipynb
-│   └── inference.ipynb
+│   ├── inference.ipynb
 │   └── messy-mashup-eda.ipynb
 │
 ├── project_report.pdf
